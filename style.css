@@ -1,0 +1,132 @@
+/*  Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Castoro&family=Raleway&family=Source+Sans+Pro&display=swap");
+/* typography classes */
+.font-raleway {
+  font-family: "Raleway", cursive;
+}
+
+.font-castoro {
+  font-family: "Castoro", cursive;
+}
+
+.font-sans-pro {
+  font-family: "Source Sans Pro", cursive;
+}
+
+.font-size-10 {
+  font-size: 10px;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#apicole a {
+  color: black;
+  text-decoration: none;
+}
+#apicole a:hover {
+  color: #EDCE79;
+  text-decoration: none;
+}
+
+/* global classes */
+#banner-area .owl-carousel .item img {
+  height: 50vw;
+}
+
+#footer a:hover {
+  text-decoration: none;
+  color: grey;
+}
+#footer a {
+  color: white;
+  opacity: 0.7;
+}
+#footer a p {
+  font-family: "Castoro", cursive;
+}
+
+#main-product img {
+  height: 45vw;
+  width: 50vw;
+}
+
+/* Most recent */
+/* style button prev, next watch minute 43... */
+#most-recent {
+  /*.owl-carousel .item .product a {
+  	overflow: hidden;
+  }*/
+}
+#most-recent .owl-carousel .item .product img {
+  transition: all 1s;
+}
+#most-recent .owl-carousel .item .product img:hover {
+  transform: scale(1.05);
+}
+
+/* Colors */
+.color-primary {
+  color: #D9A30E;
+}
+
+.color-primary-bg {
+  background-color: #D9A30E;
+}
+
+.color-secondary {
+  color: #EDCE79;
+}
+
+.color-secondary-bg {
+  background-color: #D9A30E;
+}
+
+.color-third {
+  color: #ffffcc;
+}
+
+.color-third-bg {
+  background-color: #ffffcc;
+}
+
+.color-black {
+  background-color: black;
+}
+
+#apicole img {
+  height: 300px;
+  width: 250px;
+  transition: all 1s;
+}
+#apicole img:hover {
+  transform: scale(1.05);
+}
+
+.noi {
+  height: 55vw;
+  width: 45vw;
+}
+
+/*# sourceMappingURL=style.css.map */

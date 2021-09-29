@@ -1,0 +1,18 @@
+/* Most recent */
+
+/* style button prev, next watch minute 43... */
+
+#most-recent {
+	/*.owl-carousel .item .product a {
+		overflow: hidden;
+	}*/
+
+	.owl-carousel .item .product img {
+  		transition: all 1s;
+	}
+
+	.owl-carousel .item .product img:hover {
+  		transform: scale(1.05);
+	}
+
+}

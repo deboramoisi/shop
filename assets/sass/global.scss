@@ -1,0 +1,28 @@
+/* global classes */
+
+#banner-area .owl-carousel .item img {
+	height: 50vw;
+}
+
+#footer {
+	a:hover {
+		text-decoration: none;
+		color: grey;
+	}
+
+	a {
+		color: white;
+		opacity: 0.7;
+	}
+
+	a p {
+		font-family: $font-castoro;
+	}
+}
+
+#main-product {
+	img {
+		height: 45vw;
+		width: 50vw;
+	}
+}
